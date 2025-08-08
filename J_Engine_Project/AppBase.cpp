@@ -37,7 +37,7 @@ namespace JEngine
     AppBase::~AppBase() {
         g_appBase = nullptr;
 
-        // Cleanup(GUI관련)
+        // Cleanup(GUI관련
         //ImGui_ImplDX11_Shutdown();
         //ImGui_ImplWin32_Shutdown();
         //ImGui::DestroyContext();
