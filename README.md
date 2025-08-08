@@ -1,4 +1,5 @@
 08/08 초기 커밋, 윈도우 창을 우선적으로 띄우는것을 목표로하였음. 
+
 1.Initialize함수를 호출하고 InitMainWindow로 윈도우창 초기화를 시도함
 
 2.WNDCLASSEX타입으로 새로 만들 윈도우 창의 속성을 정의해주고 RegisterClassEx로 등록을해준다.
